@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "MechvibesDX",
+    "version": "0.3.0",
+    "description": "Mechanical keyboard sound simulator",
+    "build_date": "2025-11-25T12:07:53.148697Z",
+    "git_commit": null,
+    "git_branch": "main",
+    "build_type": "debug"
+  },
+  "compatibility": {
+    "min_os_version": "macOS 10.14",
+    "supported_architectures": [
+      "x86_64"
+    ]
+  },
+  "paths": {
+    "config": "/Users/yuvan/Dev/mechvibes-dx/data/config.json",
+    "themes": "/Users/yuvan/Dev/mechvibes-dx/data/themes.json",
+    "soundpack_cache": "/Users/yuvan/Dev/mechvibes-dx/data/soundpack_cache.json",
+    "soundpacks_dir": "/Users/yuvan/Dev/mechvibes-dx/soundpacks",
+    "data_dir": "/Users/yuvan/Dev/mechvibes-dx/data"
+  },
+  "metadata": {
+    "created_at": "2025-11-25T12:07:53.149022Z",
+    "last_updated": "2025-11-25T12:07:53.149022Z",
+    "platform": "macos"
+  }
+}

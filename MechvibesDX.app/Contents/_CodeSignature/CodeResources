@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/AppIcon.png</key>
+		<data>
+		5pK/2cM9Smhv7Qz4u2wGY8a7G14=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>MacOS/assets/app.manifest</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			77mHgdnROC9zgCnRMZwsWH4qsCI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"efb98781d9d1382f738029d1319c2c587e2ab022"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-Black.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			txulBx+bTLTYXjjIHRfM+Fh2t1g=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b71ba5071f9b4cb4d85e38c81d17ccf85876b758"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-BlackItalic.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			2vxdMDPt8KDiGd3Sss9LnA6tScM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"dafc5d3033edf0a0e219ddd2b2cf4b9c0ead49c3"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-Bold.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			lvwVVL+GbUDjTIYVmzX8VVOy1yg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"96fc1554bf866d40e34c86159b35fc5553b2d728"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-BoldItalic.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			c1wyObEzFC6aV8zN7vZP5KqSQKg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"735c3239b133142e9a57cccdeef64fe4aa9240a8"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-Italic.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			lBOg2CYVG6pXFfZTU00RxcYYgYw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9413a0d826151baa5715f653534d11c5c618818c"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-Light.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PkwZp1mYS6Bi9zszoP9PIgtMCQw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"3e4c19a759984ba062f73b33a0ff4f220b4c090c"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-LightItalic.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/R1RHcsnZn8l3/cLxc+hAYM04o0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"fd1d511dcb27667f25dff70bc5cfa1018334e28d"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-Regular.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			6rTeN99CExV5EhUmYzvxnTh1v6U=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"eab4de37df42131579121526633bf19d3875bfa5"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-Thin.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Di4eYm7XrsvSt3OloJIUvPTpRY8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0e2e1e626ed7aecbd2b773a5a09214bcf4e9458f"</string>
+		</dict>
+		<key>MacOS/assets/fonts/Lato-ThinItalic.ttf</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VAHtVP7KT7WteNg0eiwa9/Hrzm0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5401ed54feca4fb5ad78d8347a2c1af7f1ebce6d"</string>
+		</dict>
+		<key>MacOS/assets/icon.ico</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RDQmD5qXTf9+oHFAGDmZ8L/wmv0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4434260f9a974dff7ea07140183999f0bff09afd"</string>
+		</dict>
+		<key>MacOS/assets/icon.png</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wPa9i6+8TL+/YK4mPqYGOfAJZ8w=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c0f6bd8bafbc4cbfbf60ae263ea60639f00967cc"</string>
+		</dict>
+		<key>MacOS/assets/icon_32.png</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cOS37iEqP7pM1nXQJ/8VkolS7q4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"70e4b7ee212a3fba4cd675d027ff15928952eeae"</string>
+		</dict>
+		<key>MacOS/assets/sounds/chatter.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			rcZPSiNCSuoERRB1gJAiaQgRvm4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"adc64f4a23424aea04451075809022690811be6e"</string>
+		</dict>
+		<key>MacOS/assets/sounds/cricket.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OJpUBdXD0ivpwHtDDXmqJEDNJSo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"389a5405d5c3d22be9c07b430d79aa2440cd252a"</string>
+		</dict>
+		<key>MacOS/assets/sounds/fire.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dTBSqzsGasAKjkhhiM71pSGp4es=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"753052ab3b066ac00a8e486188cef5a521a9e1eb"</string>
+		</dict>
+		<key>MacOS/assets/sounds/forest.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8+ODgW4gzEC3To6kgMtz59PjP0Y=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f3e383816e20cc40b74e8ea480cb73e7d3e33f46"</string>
+		</dict>
+		<key>MacOS/assets/sounds/ocean.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			n+vQPPxfoFIDbE6L3yZy93aNfvY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9febd03cfc5fa052036c4e8bdf2672f7768d7ef6"</string>
+		</dict>
+		<key>MacOS/assets/sounds/rain.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9pEyMDbmLal+Y4r2cJeUZtHnQu0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f691323036e62da97e638af670979466d1e742ed"</string>
+		</dict>
+		<key>MacOS/assets/sounds/river.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			spohtlY4tePW2lq44JgTdM+NJ3c=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b29a21b65638b5e3d6da5ab8e0981374cf8d2777"</string>
+		</dict>
+		<key>MacOS/assets/sounds/stream.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1O4roJKLyrJdwMmoJb2MiYXAv18=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d4ee2ba0928bcab25dc0c9a825bd8c8985c0bf5f"</string>
+		</dict>
+		<key>MacOS/assets/sounds/thunderstorm.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			xl05rVnO5GbAvxL4bOQOJuup8E8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c65d39ad59cee466c0bf12f86ce40e26eba9f04f"</string>
+		</dict>
+		<key>MacOS/assets/sounds/wind.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8i/phRBLAgTCaGHYLqptWi9Tzoc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f22fe985104b0204c26861d82eaa6d5a2f53ce87"</string>
+		</dict>
+		<key>MacOS/assets/style.css</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			iasSgYWWr6eE1f+HJJ7PQC7mCO4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"89ab12818596afa784d5ff87249ecf402ee608ee"</string>
+		</dict>
+		<key>MacOS/data/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			59Hgc9k3Zttu7GVjXDYZ2EBvJEo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e7d1e073d93766db6eec65635c3619d8406f244a"</string>
+		</dict>
+		<key>MacOS/data/manifest.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RIdQJgiznSlWg0OZJ1lxG41BPn8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4487502608b39d29568343992759711b8d413e7f"</string>
+		</dict>
+		<key>MacOS/data/music.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			g5qlUkge/dC4ly5Lo/xi95cj9uY=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"839aa552481efdd0b8972e4ba3fc62f79723f6e6"</string>
+		</dict>
+		<key>MacOS/data/soundpack_cache.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			byvP1JyNXhUWKzkCnDifDc89x+Q=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6f2bcfd49c8d5e15162b39029c389f0dcf3dc7e4"</string>
+		</dict>
+		<key>MacOS/data/themes.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fOy+sGj2b3oUrKyrZ/Qe1f1tlW4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7cecbeb068f66f7a14acacab67f41ed5fd6d956e"</string>
+		</dict>
+		<key>MacOS/key_listener</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			QiCTXrwvFKLv2OPRduysGy6ojaM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4220935ebc2f14a2efd8e3d176ecac1b2ea88da3"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-black-abs/black.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			uWtdf2SJS5UFyCbkR62AsunU+Gc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b96b5d7f64894b9505c826e447ad80b2e9d4f867"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-black-abs/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			LQcZ9+Oau16V/AULaLut5XF2Roo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2d0719f7e39abb5e95fc050b68bbade57176468a"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-black-abs/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Ey+qQ/+CoYFG4uhpS9lGfF9hTM0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"132faa43ff82a18146e2e8694bd9467c5f614ccd"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-black-pbt/black.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			uWtdf2SJS5UFyCbkR62AsunU+Gc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b96b5d7f64894b9505c826e447ad80b2e9d4f867"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-black-pbt/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			L+erw3sIbfYyEGaGuYP2EZCxn8k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2fe7abc37b086df632106686b983f61190b19fc9"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-black-pbt/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			noe1fHkKuhyLybEFhk5cu8wehgM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9e87b57c790aba1c8bc9b105864e5cbbcc1e8603"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-blue-abs/blue.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hiQa5W017OlEmnrUTi/ITTcN1hU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"86241ae56d35ece9449a7ad44e2fc84d370dd615"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-blue-abs/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			I4tKcK/j+9XUQI3mK10xEylCozc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"238b4a70afe3fbd5d4408de62b5d31132942a337"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-blue-abs/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8zSig3uwNz9oSAjQmJ6C8g2kv/E=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f334a2837bb0373f684808d0989e82f20da4bff1"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-blue-pbt/blue.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hiQa5W017OlEmnrUTi/ITTcN1hU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"86241ae56d35ece9449a7ad44e2fc84d370dd615"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-blue-pbt/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			v5HL/hmsv0lCczBsnebclEBEM3w=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"bf91cbfe19acbf494273306c9de6dc944044337c"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-blue-pbt/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			GAoX8kROseolBbaXz2iC/F5te/k=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"180a17f2444eb1ea2505b697cf6882fc5e6d7bf9"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-brown-abs/brown.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8VbNYbjvHRd02bDR7worHzCb4y4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f156cd61b8ef1d1774d9b0d1ef0a2b1f309be32e"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-brown-abs/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			1X+k5oYRhozrsk25YaTdi0VS8zg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"d57fa4e68611868cebb24db961a4dd8b4552f338"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-brown-abs/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JFjTSJAsVs+q4NzjfI9LO++10mM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"2458d348902c56cfaae0dce37c8f4b3befb5d263"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-brown-pbt/brown.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			8VbNYbjvHRd02bDR7worHzCb4y4=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f156cd61b8ef1d1774d9b0d1ef0a2b1f309be32e"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-brown-pbt/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			DqjaQ/gwMuaLZczWpV/5E7K1ORo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0ea8da43f83032e68b65ccd6a55ff913b2b5391a"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-brown-pbt/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Eu2u7V5UqZTlASBK9cXTR9toNkg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"12edaeed5e54a994e501204af5c5d347db683648"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-red-abs/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Qoy0dwObD7b2nWrVx+YV/o/gBFM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"428cb477039b0fb6f69d6ad5c7e615fe8fe00453"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-red-abs/red.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			91oGojdUlsfMBk6Mo1RFk68UsRo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f75a06a2375496c7cc064e8ca3544593af14b11a"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-red-abs/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oX7oW0Avx214yYhh4TB9IzBoCYc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a17ee85b402fc76d78c98861e1307d2330680987"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-red-pbt/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			W4A0ZGrkYlAHvfH3c7UIQeIc9w0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5b8034646ae4625007bdf1f773b50841e21cf70d"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-red-pbt/red.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			91oGojdUlsfMBk6Mo1RFk68UsRo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f75a06a2375496c7cc064e8ca3544593af14b11a"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/cherrymx-red-pbt/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yjWcy2KWX/tD83EvluSPQFg0ZLQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"ca359ccb62965ffb43f3712f96e48f40583464b4"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/eg-crystal-purple/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			WrNok/zBRLUDNSHnsfgtzEyfkHU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5ab36893fcc144b5033521e7b1f82dcc4c9f9075"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/eg-crystal-purple/purple.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cHT1OuaD3WXNliuJ2Hbp8TDDwvA=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7074f53ae683dd65cd962b89d876e9f130c3c2f0"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/eg-oreo/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			J2U0pbyHrcRQH8XR+iBg/6/9kyg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"276534a5bc87adc4501fc5d1fa2060ffaffd9328"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/eg-oreo/oreo.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			i7fnJ7UGlyn5hMS0SpI0HhWFKdI=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"8bb7e727b5069729f984c4b44a92341e158529d2"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/eg-oreo/oreo.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pvZ+6qB2RA855+onID3n1izhsXU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a6f67eeaa076440f39e7ea27203de7d62ce1b175"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/topre-purple-hybrid-pbt/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BgS/kdTredqWWCGj2IRlgwkv1bE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"0604bf91d4eb79da965821a3d8846583092fd5b1"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/topre-purple-hybrid-pbt/sound.ogg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			XluQpHJ+bTbEWvfDbotUEElLR8U=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5e5b90a4727e6d36c45af7c36e8b5410494b47c5"</string>
+		</dict>
+		<key>MacOS/soundpacks/keyboard/topre-purple-hybrid-pbt/topre.jpg</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VPzBp+rfeT/xZg7d6WKiTWe3R30=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"54fcc1a7eadf793ff1660edde962a24d67b7477d"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/chat/chat.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			oL6FcRDLSDIyF7oVi0s3H2uUWaw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a0be857110cb48323217ba158b4b371f6b9459ac"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/chat/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			ReQyfMYbVloh5wIQXJizf468AYQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"45e4327cc61b565a21e702105c98b37f8ebc0184"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/ping/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			r97WxVxrEbj0pcVCZD3rFsMqw/I=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"afded6c55c6b11b8f4a5c542643deb16c32ac3f2"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/ping/ping.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pyDNbLxXh16XKr2YPKbD/JBvNX8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a720cd6cbc57875e972abd983ca6c3fc906f357f"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/vibrate/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			fEKdccS3soHAbMW9Ttdx7WHSPcg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7c429d71c4b7b281c06cc5bd4ed771ed61d23dc8"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/vibrate/vibrate.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			WaEgMCqC7F2Dk/o+umkLfPpNjtk=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"59a120302a82ec5d8393fa3eba690b7cfa4d8ed9"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/wooden/config.json</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			XBNm/SmeFw4P2TAFogGIrGcNUGE=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"5c1366fd299e170e0fd93005a20188ac670d5061"</string>
+		</dict>
+		<key>MacOS/soundpacks/mouse/wooden/wooden.mp3</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			63g3JcYTvYkavPvK1a5Frv2wKzM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"eb783725c613bd891abcfbcad5ae45aefdb02b33"</string>
+		</dict>
+		<key>Resources/AppIcon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RAPgrc44QWmCTVIfH81A5VK5kElL0Jarho1QoDgQv8c=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

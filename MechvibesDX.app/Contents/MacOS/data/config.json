@@ -1,0 +1,57 @@
+{
+  "version": "0.3.0",
+  "last_updated": "2025-11-28T04:57:23.734542Z",
+  "commit": null,
+  "keyboard_soundpack": "keyboard/cherrymx-blue-abs",
+  "mouse_soundpack": "mouse/wooden",
+  "volume": 0.1,
+  "mouse_volume": 0.03,
+  "enable_volume_boost": false,
+  "enable_sound": true,
+  "enable_keyboard_sound": true,
+  "enable_mouse_sound": true,
+  "selected_audio_device": null,
+  "enabled_keyboards": [],
+  "enabled_mice": [],
+  "theme": {
+    "BuiltIn": "Synthwave"
+  },
+  "custom_css": "",
+  "logo_customization": {
+    "border_color": "var(--color-base-content)",
+    "text_color": "var(--color-base-content)",
+    "shadow_color": "var(--color-base-content)",
+    "background_color": "var(--color-base-200)",
+    "background_image": null,
+    "use_background_image": false,
+    "muted_background": "var(--color-base-300)",
+    "muted_background_image": null,
+    "use_muted_background_image": false,
+    "dimmed_when_muted": false
+  },
+  "enable_logo_customization": false,
+  "background_customization": {
+    "background_color": "",
+    "background_image": null,
+    "use_image": false
+  },
+  "enable_background_customization": false,
+  "music_player": {
+    "current_track_id": null,
+    "volume": 50.0,
+    "is_muted": false,
+    "auto_play": false,
+    "music_last_updated": 0
+  },
+  "ambiance_active_sounds": {},
+  "ambiance_global_volume": 0.5,
+  "ambiance_is_muted": false,
+  "auto_start": false,
+  "start_hidden_in_tray": true,
+  "landscape_mode": false,
+  "auto_update": {
+    "last_check": 1764178488,
+    "available_version": null,
+    "available_download_url": null
+  }
+}
