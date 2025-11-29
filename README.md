@@ -11,3 +11,4 @@ This is a simple app that plays sound when you type or click.
 ## Installation
 This app is specifically modified for macOS. The original one is made for Windows. Info here -> (https://github.com/hainguyents13/mechvibes-dx/).
 1. There is a .app made in this repository. Drag it into the applications folder and open the app. Enjoy! 
+### Made using Google Antigravity. 
